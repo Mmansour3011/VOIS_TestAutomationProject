@@ -11,5 +11,5 @@
 ### How to run 
 #### run Main.class
 ### Warning
-#### In order to make the test succeed don't change the directory of the excel sheet.
+#### In order to make the test works successfully don't change the directory of the excel sheet.
 
